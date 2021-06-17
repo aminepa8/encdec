@@ -1,0 +1,16 @@
+{
+  "name": "test-encryption",
+  "version": "1.0.0",
+  "description": "Diffie Hellman   Encryption and Decryption using Symmetric key",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moulay",
+  "license": "ISC",
+  "dependencies": {
+    "aes256": "^1.1.0",
+    "crypto": "^1.0.1"
+  }
+}
